@@ -2,15 +2,16 @@
 SQL + Power BI Project | Prostate Cancer Analytics | From Raw Data to Healthcare Insights
 
 ### Table of Contents
-* Project Overview
-* Tools & Technologies
-* Dataset Overview
-* Data Cleaning
-* Exploratory Data Analysis
-* Power BI Dashboard
-* Key Metrics
-* Key Insights
-*Recommendations
+* [Project Overview](project-overview)
+* [Tools & Technologies](#tools--technologies)
+* [Dataset Overview](#dataset-overview)
+* [Data Cleaning](#data-cleaning)
+* [Exploratory Data Analysis](#exploratory-data-analysis)
+* [Power BI Dashboard](power-bi-dashboard)
+* [Key Metrics](#key-metrics)
+* [Key Insight](#key-insight)
+* [Recommendations](#recommendations)
+* [Dataset Source](#dataset-source)
 
 ### Project Overview
 This project analyses prostate cancer patient data to uncover insights on survival outcomes, mortality rates, early detection impact, and treatment effectiveness.
