@@ -1,4 +1,4 @@
-# Prostate Cancer Survival & Screening Impact Dashboard
+# Prostate Cancer Survival & Screening Impact Project
 SQL + Power BI Project | Prostate Cancer Analytics | From Raw Data to Healthcare Insights
 
 ### Table of Contents
